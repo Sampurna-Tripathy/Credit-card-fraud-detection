@@ -1,9 +1,10 @@
 # Credit-card-fraud-detection
 
-**Background: **
+**Background:**
+
 Credit card fraud is a significant and growing problem in the financial industry. It involves unauthorized transactions made using a credit card, either by stealing physical cards or obtaining card details through various means like phishing or hacking. The consequences of credit card fraud are severe, leading to financial losses for consumers and financial institutions, as well as undermining trust in the payment system.
-**
-Introduction:**
+
+**Introduction:**
 
 The datasets contains transactions made by credit cards in September 2013 by european cardholders.
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions.
